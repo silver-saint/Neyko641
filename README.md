@@ -6,3 +6,4 @@ Currently making a few websites for my self while studying Vue.js.
 
 I also like Art and I am studying Japanese as a hobby.
 
+[![Neyko641's wakatime stats](https://github-readme-stats-liard-psi.vercel.app/api/wakatime?username=Neyko641)](https://github.com/anuraghazra/github-readme-stats)
