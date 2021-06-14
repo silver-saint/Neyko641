@@ -1,4 +1,4 @@
-I'm Neyko Naydenov, a 24-year old CS major and a Web Developer on a mission. 
+I'm Neyko Naydenov, a 24-year old CS major and a Developer on a mission. 
 
 Currently studying Software Engineering.
 
