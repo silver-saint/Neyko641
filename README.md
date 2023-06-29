@@ -1,1 +1,1 @@
-I'm Neyko Naydenov, a 24-year old CS major and a Developer on a mission. 
+I'm Neyko Naydenov, a 26-year old CS major and a Developer on a mission. 
